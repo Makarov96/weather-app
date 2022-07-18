@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  weatherapp
+
+  Created by Guerin Steven Colocho Chacon on 29/05/22.
+  
+*/
+
+"titleApp" = "WeWork App";
+"weatherDetails" = "DETAILS";
+"weatherMonday" = "MONDAY";
+"weatherTuesday" = "TUESDAY";
+"weatherWednesDay" = "WEDNESDAY";
+"weatherThursday" = "THURSDAY";
+"weatherFriday" = "FRIDAY";
+"weatherSaturday" = "SATURDAY";
+"weatherSunday" = "SUNDAY";
+"selectColorExpense" = "Select the color of your expense";
+"enterAmountToDebit" = "Enter the amount to debit";
+"amountToDebit" = "Debit Amount";
+"expenseName" = "Expense name";
+"expenseHint" = "Enter expense name";
+"feelLike" = "FEEL LIKE";
+"humidity" = "HUMIDITY";
+"wind" = "WIND";
+"velocity" = "VELOCITY";

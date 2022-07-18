@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  weatherapp
+
+  Created by Guerin Steven Colocho Chacon on 29/05/22.
+  
+*/
+
+"titleApp" = "WeWork App";
+"weatherDetails" = "DETALLES";
+"weatherMonday" = "LUNES";
+"weatherTuesday" = "MARTES";
+"weatherWednesDay" = "MIERCOLES";
+"weatherThursday" = "JUEVES";
+"weatherFriday" = "VIERNES";
+"weatherSaturday" = "SABADO";
+"weatherSunday" = "DOMINGO";
+"selectColorExpense" = "Selecciona el color de tu gasto";
+"enterAmountToDebit" = "Integra el monto a debita";
+"amountToDebit" = "Cantidad a debitar";
+"feelLike" = "SENSACIÓN";
+"humidity" = "HUMEDAD";
+"wind" = "VIENTO";
+"velocity" = "VELOCIDAD";
